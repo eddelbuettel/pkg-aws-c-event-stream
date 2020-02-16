@@ -1,0 +1,16 @@
+Source: aws-c-event-stream
+Section: devel
+Priority: optional
+Maintainer: Dirk Eddelbuettel <edd@debian.org>
+Standards-Version: 4.4.0
+Build-Depends: debhelper (>= 11~), gcc (>= 4:4.0), binutils (>= 2.12.90.0.9), cmake, libaws-c-common-dev, libaws-checksums-dev
+Homepage: https://github.com/awslabs/aws-c-event-stream
+
+Package: libaws-c-event-stream-dev
+Section: libdevel
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: AWS Event Stream C Implementation -- development package
+ Inofficial package. Currently contains a static (not shared) library.
+ .
+ C99 implementation of the vnd.amazon.event-stream content-type.

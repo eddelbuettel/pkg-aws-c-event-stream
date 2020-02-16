@@ -1,0 +1,5 @@
+Inofficial local Debian package for the AWS EventStream C Implementation
+
+Upstream:  https://github.com/awslabs/aws-c-event-stream
+
+Packaged by Dirk Eddelbuettel <edd@debian.org>

@@ -1,0 +1,5 @@
+aws-c-event-stream (0.1.4-1) bionic; urgency=low
+
+  * Informal and unofficial package
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Sat, 15 Feb 2020 14:41:15 -0600
