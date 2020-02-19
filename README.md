@@ -1,7 +1,7 @@
 
 ## Minimally viable unofficial Debian packaging for the AWS C Event Stream
 
-Taken as a complete snapshot on 2020-02-15 at sha1 3bc3366 taken 2020-02-15 from
+Taken as a complete snapshot on 2020-02-15 at sha1 3bc3366 from
 https://github.com/awslabs/aws-c-event-stream
 
 ### Changes
