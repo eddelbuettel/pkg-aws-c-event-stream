@@ -4,6 +4,8 @@
 Taken as a complete snapshot on 2020-02-15 at sha1 3bc3366 from
 https://github.com/awslabs/aws-c-event-stream
 
+Updated 2020-07-09 with release 0.1.5 sha1 7e7d203
+
 ### Changes
 
 No changes made other than
