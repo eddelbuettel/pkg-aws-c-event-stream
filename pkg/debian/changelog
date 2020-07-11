@@ -1,3 +1,21 @@
+aws-c-event-stream (0.1.5-1.debian.1) unstable; urgency=medium
+
+  * Debian build of informal and unofficial package
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Fri, 10 Jul 2020 10:45:59 -0500
+
+aws-c-event-stream (0.1.5-1.1804.1) bionic; urgency=medium
+
+  * Informal and unofficial package
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Thu, 09 Jul 2020 12:23:23 -0500
+
+aws-c-event-stream (0.1.5-1.2004.1) focal; urgency=medium
+
+  * Informal and unofficial package
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Thu, 09 Jul 2020 12:21:36 -0500
+
 aws-c-event-stream (0.1.4-1debian) unstable; urgency=medium
 
   * Debian build of informal and unofficial package
