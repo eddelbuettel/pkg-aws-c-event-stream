@@ -1,4 +1,4 @@
-aws-c-event-stream (0.1.6-1.1804.1) bionic; urgency=medium
+aws-c-event-stream (0.1.6-1.2004.1) focal; urgency=medium
 
   * Upstream updates
   * Ubuntu PPA build of informal and unofficial package
